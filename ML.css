@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: blue;
+    font-family: verdana;
+  font-size: 300%;
+
+}
+p {
+  color: aquamarine;
+  font-family: courier;
+  font-size: 140%;}
+  strong
+  {
+    color: aquamarine;
+  font-family: courier;
+  font-size: 140%;}
+  
+a{  color:  #f1ff47 ;
+  font-family: courier;
+  font-size: 140%;}
+
